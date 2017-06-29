@@ -1,210 +1,272 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-                                           xmlns:content="http://purl.org/rss/1.0/modules/content/"
-                                           xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-                                           xmlns:dc="http://purl.org/dc/elements/1.1/"
-                                           xmlns:atom="http://www.w3.org/2005/Atom"
-                                           xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-                                           xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-                                           xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
->
-
-  <channel>
-    <title>nusparkles</title>
-    <atom:link href="https://nusparkles.wordpress.com/feed/" rel="self" type="application/rss+xml" />
-    <link>https://nusparkles.wordpress.com</link>
-    <description>The greatest WordPress.com site in all the land!</description>
-    <lastBuildDate>Thu, 29 Jun 2017 20:03:31 +0000</lastBuildDate>
-    <language>en</language>
-    <sy:updatePeriod>hourly</sy:updatePeriod>
-    <sy:updateFrequency>1</sy:updateFrequency>
-    <generator>http://wordpress.com/</generator>
-    <cloud domain='nusparkles.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
-    <image>
-      <url>https://secure.gravatar.com/blavatar/169a51289b1b3530cebaabf25be5bbb7?s=96&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
-      <title>nusparkles</title>
-      <link>https://nusparkles.wordpress.com</link>
-    </image>
-    <atom:link rel="search" type="application/opensearchdescription+xml" href="https://nusparkles.wordpress.com/osd.xml" title="nusparkles" />
-    <atom:link rel='hub' href='https://nusparkles.wordpress.com/?pushpress=hub'/>
-    <item>
-      <title>8th of July sale</title>
-      <link>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/</link>
-      <comments>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/#respond</comments>
-      <pubDate>Thu, 29 Jun 2017 15:05:21 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=108</guid>
-      <description><![CDATA[Awesome new sale coming at you!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=108&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>Awesome new sale coming at you!</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/108/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/108/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=108&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>7th of July sale</title>
-      <link>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/</link>
-      <comments>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/#respond</comments>
-      <pubDate>Thu, 29 Jun 2017 15:03:41 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=106</guid>
-      <description><![CDATA[Coming in!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=106&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>Coming in!</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/106/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/106/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=106&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>6th of July sale</title>
-      <link>https://nusparkles.wordpress.com/2017/06/29/6th-of-july-sale/</link>
-      <comments>https://nusparkles.wordpress.com/2017/06/29/6th-of-july-sale/#respond</comments>
-      <pubDate>Thu, 29 Jun 2017 14:57:27 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/2017/06/29/6th-of-july-sale/</guid>
-      <description><![CDATA[sale<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=105&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>sale</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/105/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/105/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=105&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/6th-of-july-sale/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>5th of July sale</title>
-      <link>https://nusparkles.wordpress.com/2017/06/29/5th-of-july-sale/</link>
-      <comments>https://nusparkles.wordpress.com/2017/06/29/5th-of-july-sale/#respond</comments>
-      <pubDate>Thu, 29 Jun 2017 14:49:21 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=102</guid>
-      <description><![CDATA[sale sale sale<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=102&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>sale sale sale</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/102/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/102/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=102&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/5th-of-july-sale/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>4th of July sale</title>
-      <link>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale/</link>
-      <comments>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale/#respond</comments>
-      <pubDate>Thu, 29 Jun 2017 14:39:54 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=100</guid>
-      <description><![CDATA[sale sale sale<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=100&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>sale sale sale</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/100/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/100/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=100&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>4th of July sale 2017</title>
-      <link>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale-2017/</link>
-      <comments>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale-2017/#respond</comments>
-      <pubDate>Thu, 29 Jun 2017 13:55:19 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=98</guid>
-      <description><![CDATA[Come and get some!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=98&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>Come and get some!</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/98/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/98/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=98&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale-2017/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>NuSparkles 4th of July Sale</title>
-      <link>https://nusparkles.wordpress.com/2017/06/29/nusparkles-4th-of-july-sale/</link>
-      <comments>https://nusparkles.wordpress.com/2017/06/29/nusparkles-4th-of-july-sale/#respond</comments>
-      <pubDate>Thu, 29 Jun 2017 13:48:38 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=95</guid>
-      <description><![CDATA[Come to our store for some exclusive top of the line deals!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=95&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>Come to our store for some exclusive top of the line deals!</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/95/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/95/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=95&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/nusparkles-4th-of-july-sale/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>Christmas Sale 2016</title>
-      <link>https://nusparkles.wordpress.com/2016/12/01/christmas-sale-2016/</link>
-      <comments>https://nusparkles.wordpress.com/2016/12/01/christmas-sale-2016/#respond</comments>
-      <pubDate>Thu, 01 Dec 2016 15:52:25 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=90</guid>
-      <description><![CDATA[Come in today and see some of our great Christmas Sales. 20% off the plus a special Christmas tote with purchases $50 or more!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=90&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>Come in today and see some of our great Christmas Sales. 20% off the plus a special Christmas tote with purchases $50 or more!</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/90/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/90/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=90&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2016/12/01/christmas-sale-2016/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>Labor Day Sales 2016</title>
-      <link>https://nusparkles.wordpress.com/2016/08/25/labor-day-sales-2016/</link>
-      <comments>https://nusparkles.wordpress.com/2016/08/25/labor-day-sales-2016/#comments</comments>
-      <pubDate>Thu, 25 Aug 2016 19:19:36 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=88</guid>
-      <description><![CDATA[Come in today and see some of our great Labor Day Sales. 20% off the last Summer gifts you might have<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=88&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>Come in today and see some of our great Labor Day Sales. 20% off the last Summer gifts you might have</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/88/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/88/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=88&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2016/08/25/labor-day-sales-2016/feed/</wfw:commentRss>
-      <slash:comments>1</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-    <item>
-      <title>Summer 2016</title>
-      <link>https://nusparkles.wordpress.com/2016/08/18/summer-2016/</link>
-      <comments>https://nusparkles.wordpress.com/2016/08/18/summer-2016/#respond</comments>
-      <pubDate>Thu, 18 Aug 2016 13:31:12 +0000</pubDate>
-      <dc:creator><![CDATA[nusparkles]]></dc:creator>
-      <category><![CDATA[Uncategorized]]></category>
-
-      <guid isPermaLink="false">http://nusparkles.wordpress.com/?p=84</guid>
-      <description><![CDATA[Come in and get that last minute Summer Savings Sale. 20% off selected items.<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=84&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
-      <content:encoded><![CDATA[<p>Come in and get that last minute Summer Savings Sale. 20% off selected items.</p><br />  <a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/84/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/84/" /></a> <img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=84&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
-      <wfw:commentRss>https://nusparkles.wordpress.com/2016/08/18/summer-2016/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-
-      <media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-        <media:title type="html">nusparkles</media:title>
-      </media:content>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	>
+	<channel>
+		<title>nusparkles</title>
+		<atom:link href="https://nusparkles.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+		<link>https://nusparkles.wordpress.com</link>
+		<description>The greatest WordPress.com site in all the land!</description>
+		<lastBuildDate>Thu, 29 Jun 2017 20:03:31 +0000</lastBuildDate>
+		<language>en</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://wordpress.com/</generator>
+		<cloud domain='nusparkles.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+		<image>
+			<url>https://secure.gravatar.com/blavatar/169a51289b1b3530cebaabf25be5bbb7?s=96&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+			<title>nusparkles</title>
+			<link>https://nusparkles.wordpress.com</link>
+		</image>
+		<atom:link rel="search" type="application/opensearchdescription+xml" href="https://nusparkles.wordpress.com/osd.xml" title="nusparkles" />
+		<atom:link rel='hub' href='https://nusparkles.wordpress.com/?pushpress=hub'/>
+		<item>
+			<title>8th of July sale</title>
+			<link>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/</link>
+			<comments>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/#respond</comments>
+			<pubDate>Thu, 29 Jun 2017 15:05:21 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=108</guid>
+			<description>
+				<![CDATA[Awesome new sale coming at you!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=108&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Awesome new sale coming at you!</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/108/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/108/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=108&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>7th of July sale</title>
+			<link>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/</link>
+			<comments>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/#respond</comments>
+			<pubDate>Thu, 29 Jun 2017 15:03:41 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=106</guid>
+			<description>
+				<![CDATA[Coming in!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=106&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Coming in!</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/106/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/106/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=106&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>6th of July sale</title>
+			<link>https://nusparkles.wordpress.com/2017/06/29/6th-of-july-sale/</link>
+			<comments>https://nusparkles.wordpress.com/2017/06/29/6th-of-july-sale/#respond</comments>
+			<pubDate>Thu, 29 Jun 2017 14:57:27 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/2017/06/29/6th-of-july-sale/</guid>
+			<description>
+				<![CDATA[sale<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=105&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>sale</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/105/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/105/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=105&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/6th-of-july-sale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>5th of July sale</title>
+			<link>https://nusparkles.wordpress.com/2017/06/29/5th-of-july-sale/</link>
+			<comments>https://nusparkles.wordpress.com/2017/06/29/5th-of-july-sale/#respond</comments>
+			<pubDate>Thu, 29 Jun 2017 14:49:21 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=102</guid>
+			<description>
+				<![CDATA[sale sale sale<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=102&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>sale sale sale</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/102/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/102/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=102&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/5th-of-july-sale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>4th of July sale</title>
+			<link>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale/</link>
+			<comments>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale/#respond</comments>
+			<pubDate>Thu, 29 Jun 2017 14:39:54 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=100</guid>
+			<description>
+				<![CDATA[sale sale sale<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=100&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>sale sale sale</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/100/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/100/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=100&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>4th of July sale 2017</title>
+			<link>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale-2017/</link>
+			<comments>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale-2017/#respond</comments>
+			<pubDate>Thu, 29 Jun 2017 13:55:19 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=98</guid>
+			<description>
+				<![CDATA[Come and get some!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=98&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Come and get some!</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/98/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/98/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=98&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/4th-of-july-sale-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>NuSparkles 4th of July Sale</title>
+			<link>https://nusparkles.wordpress.com/2017/06/29/nusparkles-4th-of-july-sale/</link>
+			<comments>https://nusparkles.wordpress.com/2017/06/29/nusparkles-4th-of-july-sale/#respond</comments>
+			<pubDate>Thu, 29 Jun 2017 13:48:38 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=95</guid>
+			<description>
+				<![CDATA[Come to our store for some exclusive top of the line deals!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=95&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Come to our store for some exclusive top of the line deals!</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/95/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/95/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=95&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/nusparkles-4th-of-july-sale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>Christmas Sale 2016</title>
+			<link>https://nusparkles.wordpress.com/2016/12/01/christmas-sale-2016/</link>
+			<comments>https://nusparkles.wordpress.com/2016/12/01/christmas-sale-2016/#respond</comments>
+			<pubDate>Thu, 01 Dec 2016 15:52:25 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=90</guid>
+			<description>
+				<![CDATA[Come in today and see some of our great Christmas Sales. 20% off the plus a special Christmas tote with purchases $50 or more!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=90&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Come in today and see some of our great Christmas Sales. 20% off the plus a special Christmas tote with purchases $50 or more!</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/90/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/90/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=90&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2016/12/01/christmas-sale-2016/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>Labor Day Sales 2016</title>
+			<link>https://nusparkles.wordpress.com/2016/08/25/labor-day-sales-2016/</link>
+			<comments>https://nusparkles.wordpress.com/2016/08/25/labor-day-sales-2016/#comments</comments>
+			<pubDate>Thu, 25 Aug 2016 19:19:36 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=88</guid>
+			<description>
+				<![CDATA[Come in today and see some of our great Labor Day Sales. 20% off the last Summer gifts you might have<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=88&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Come in today and see some of our great Labor Day Sales. 20% off the last Summer gifts you might have</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/88/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/88/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=88&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2016/08/25/labor-day-sales-2016/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+		<item>
+			<title>Summer 2016</title>
+			<link>https://nusparkles.wordpress.com/2016/08/18/summer-2016/</link>
+			<comments>https://nusparkles.wordpress.com/2016/08/18/summer-2016/#respond</comments>
+			<pubDate>Thu, 18 Aug 2016 13:31:12 +0000</pubDate>
+			<dc:creator>
+				<![CDATA[nusparkles]]>
+			</dc:creator>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=84</guid>
+			<description>
+				<![CDATA[Come in and get that last minute Summer Savings Sale. 20% off selected items.<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=84&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Come in and get that last minute Summer Savings Sale. 20% off selected items.</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/84/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/84/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=84&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
+			</content:encoded>
+			<wfw:commentRss>https://nusparkles.wordpress.com/2016/08/18/summer-2016/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
+				<media:title type="html">nusparkles</media:title>
+			</media:content>
+		</item>
+	</channel>
 </rss>

@@ -1,80 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
+<?xml version='1.0' encoding='UTF-8'?>
+<rss
 	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+	xmlns:blogger="http://schemas.google.com/blogger/2008"
 	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	xmlns:media="http://search.yahoo.com/mrss/"
-	>
+	xmlns:gd="http://schemas.google.com/g/2005"
+	xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0">
 	<channel>
-		<title>nusparkles</title>
-		<atom:link href="https://nusparkles.wordpress.com/feed/" rel="self" type="application/rss+xml" />
-		<link>https://nusparkles.wordpress.com</link>
-		<description>The greatest WordPress.com site in all the land!</description>
-		<lastBuildDate>Thu, 29 Jun 2017 21:03:31 +0000</lastBuildDate>
-		<language>en</language>
-		<sy:updatePeriod>hourly</sy:updatePeriod>
-		<sy:updateFrequency>1</sy:updateFrequency>
-		<generator>http://wordpress.com/</generator>
-		<cloud domain='nusparkles.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
-		<image>
-			<url>https://secure.gravatar.com/blavatar/169a51289b1b3530cebaabf25be5bbb7?s=96&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
-			<title>nusparkles</title>
-			<link>https://nusparkles.wordpress.com</link>
-		</image>
-		<atom:link rel="search" type="application/opensearchdescription+xml" href="https://nusparkles.wordpress.com/osd.xml" title="nusparkles" />
-		<atom:link rel='hub' href='https://nusparkles.wordpress.com/?pushpress=hub'/>
+		<atom:id>tag:blogger.com,1999:blog-4719848891501249593</atom:id>
+		<lastBuildDate>Thu, 29 Jun 2017 19:31:27 +0000</lastBuildDate>
+		<title>nusoap</title>
+		<description></description>
+		<link>http://nusoap-auto.blogspot.com/</link>
+		<managingEditor>noreply@blogger.com (nusoap)</managingEditor>
+		<generator>Blogger</generator>
+		<openSearch:totalResults>5</openSearch:totalResults>
+		<openSearch:startIndex>1</openSearch:startIndex>
+		<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
 		<item>
-			<title>99th of July sale</title>
-			<link>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/</link>
-			<comments>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/#respond</comments>
-			<pubDate>Thu, 29 Jun 2017 15:05:21 +0000</pubDate>
-			<dc:creator>
-				<![CDATA[nusparkles]]>
-			</dc:creator>
-			<category>
-				<![CDATA[Uncategorized]]>
-			</category>
-			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=108</guid>
-			<description>
-				<![CDATA[Awesome new sale coming at you!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=108&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
-			</description>
-			<content:encoded>
-				<![CDATA[<p>Awesome new sale coming at you!</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/108/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/108/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=108&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
-			</content:encoded>
-			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/8th-of-july-sale/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-				<media:title type="html">nusparkles</media:title>
-			</media:content>
+			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-1376410393612276828</guid>
+			<pubDate>Thu, 29 Jun 2017 19:31:00 +0000</pubDate>
+			<atom:updated>2017-06-29T12:31:27.546-07:00</atom:updated>
+			<title></title>
+			<description>happy Thursday</description>
+			<link>http://nusoap-auto.blogspot.com/2017/06/blog-post_74.html</link>
+			<author>noreply@blogger.com (nusoap)</author>
+			<thr:total>0</thr:total>
 		</item>
 		<item>
-			<title>77th of July sale</title>
-			<link>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/</link>
-			<comments>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/#respond</comments>
-			<pubDate>Thu, 29 Jun 2017 15:03:41 +0000</pubDate>
-			<dc:creator>
-				<![CDATA[nusparkles]]>
-			</dc:creator>
-			<category>
-				<![CDATA[Uncategorized]]>
-			</category>
-			<guid isPermaLink="false">http://nusparkles.wordpress.com/?p=106</guid>
-			<description>
-				<![CDATA[Coming in!<img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=106&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
-			</description>
-			<content:encoded>
-				<![CDATA[<p>Coming in!</p><br /><a rel="nofollow" href="http://feeds.wordpress.com/1.0/gocomments/nusparkles.wordpress.com/106/"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/nusparkles.wordpress.com/106/" /></a><img alt="" border="0" src="https://pixel.wp.com/b.gif?host=nusparkles.wordpress.com&#038;blog=53103442&#038;post=106&#038;subd=nusparkles&#038;ref=&#038;feed=1" width="1" height="1" />]]>
-			</content:encoded>
-			<wfw:commentRss>https://nusparkles.wordpress.com/2017/06/29/7th-of-july-sale/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-			<media:content url="http://0.gravatar.com/avatar/c2f22e5d29ed8de7f4f6774a68e3ce2d?s=96&#38;d=identicon&#38;r=G" medium="image">
-				<media:title type="html">nusparkles</media:title>
-			</media:content>
+			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-6326825546202624444</guid>
+			<pubDate>Thu, 29 Jun 2017 17:57:00 +0000</pubDate>
+			<atom:updated>2017-06-29T10:57:30.000-07:00</atom:updated>
+			<title></title>
+			<description>this is a blog post 2</description>
+			<link>http://nusoap-auto.blogspot.com/2017/06/blog-post_29.html</link>
+			<author>noreply@blogger.com (nusoap)</author>
+			<thr:total>0</thr:total>
+		</item>
+		<item>
+			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-7764690079038725026</guid>
+			<pubDate>Thu, 29 Jun 2017 17:52:00 +0000</pubDate>
+			<atom:updated>2017-06-29T10:52:49.759-07:00</atom:updated>
+			<title></title>
+			<description>this is a blog post</description>
+			<link>http://nusoap-auto.blogspot.com/2017/06/blog-post.html</link>
+			<author>noreply@blogger.com (nusoap)</author>
+			<thr:total>0</thr:total>
+		</item>
+		<item>
+			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-1788575453583414554</guid>
+			<pubDate>Thu, 29 Jun 2017 17:19:00 +0000</pubDate>
+			<atom:updated>2017-06-29T10:19:24.900-07:00</atom:updated>
+			<title>ttt</title>
+			<description>ttt</description>
+			<link>http://nusoap-auto.blogspot.com/2017/06/ttt.html</link>
+			<author>noreply@blogger.com (nusoap)</author>
+			<thr:total>0</thr:total>
+		</item>
+		<item>
+			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-6567208667652832493</guid>
+			<pubDate>Thu, 29 Jun 2017 16:48:00 +0000</pubDate>
+			<atom:updated>2017-06-29T09:48:38.424-07:00</atom:updated>
+			<title>There is something in the air!</title>
+			<description>I can smell it...</description>
+			<link>http://nusoap-auto.blogspot.com/2017/06/there-is-something-in-air.html</link>
+			<author>noreply@blogger.com (nusoap)</author>
+			<thr:total>0</thr:total>
 		</item>
 	</channel>
 </rss>

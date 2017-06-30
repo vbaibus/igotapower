@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<title>New collection of soaps just came on sale!</title>
+	<link rel="alternate" href="https://twitter.com/NuSoap" />
+	<subtitle>Soaps from all around the world await!</subtitle>
+	<updated>2017-06-30T19:38:28Z</updated>
+	<dc:date>2017-06-30T19:38:28Z</dc:date>
+	<entry>
+		<title>Try our new Pouros, Pouros and Pouros soap</title>
+		<link rel="alternate" href="www.krystel-russel.biz" />
+		<author>
+			<name>noreply@nusoap.com</name>
+		</author>
+		<updated>2017-06-30T19:38:28Z</updated>
+		<published>2017-06-30T19:38:28Z</published>
+		<summary type="text">And you will smell like pricing structure</summary>
+		<dc:creator>noreply@nusoap.com</dc:creator>
+		<dc:date>2017-06-30T19:38:28Z</dc:date>
+	</entry>
+</feed>

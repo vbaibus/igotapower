@@ -1,71 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <rss
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
-	xmlns:blogger="http://schemas.google.com/blogger/2008"
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:gd="http://schemas.google.com/g/2005"
-	xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0">
+	xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<atom:id>tag:blogger.com,1999:blog-4719848891501249593</atom:id>
-		<lastBuildDate>Thu, 29 Jun 2017 19:31:27 +0000</lastBuildDate>
-		<title>nusoap</title>
-		<description></description>
-		<link>http://nusoap-auto.blogspot.com/</link>
-		<managingEditor>noreply@blogger.com (nusoap)</managingEditor>
-		<generator>Blogger</generator>
-		<openSearch:totalResults>5</openSearch:totalResults>
-		<openSearch:startIndex>1</openSearch:startIndex>
-		<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+		<title>New collection of soaps just came on sale!</title>
+		<link>https://twitter.com/NuSoap</link>
+		<description>Soaps from all around the world await!</description>
 		<item>
-			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-1376410393612276828</guid>
-			<pubDate>Thu, 29 Jun 2017 19:31:00 +0000</pubDate>
-			<atom:updated>2017-06-29T12:31:27.546-07:00</atom:updated>
-			<title></title>
-			<description>happy Thursday</description>
-			<link>http://nusoap-auto.blogspot.com/2017/06/blog-post_74.html</link>
-			<author>noreply@blogger.com (nusoap)</author>
-			<thr:total>0</thr:total>
-		</item>
-		<item>
-			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-6326825546202624444</guid>
-			<pubDate>Thu, 29 Jun 2017 17:57:00 +0000</pubDate>
-			<atom:updated>2017-06-29T10:57:30.000-07:00</atom:updated>
-			<title></title>
-			<description>this is a blog post 2</description>
-			<link>http://nusoap-auto.blogspot.com/2017/06/blog-post_29.html</link>
-			<author>noreply@blogger.com (nusoap)</author>
-			<thr:total>0</thr:total>
-		</item>
-		<item>
-			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-7764690079038725026</guid>
-			<pubDate>Thu, 29 Jun 2017 17:52:00 +0000</pubDate>
-			<atom:updated>2017-06-29T10:52:49.759-07:00</atom:updated>
-			<title></title>
-			<description>this is a blog post</description>
-			<link>http://nusoap-auto.blogspot.com/2017/06/blog-post.html</link>
-			<author>noreply@blogger.com (nusoap)</author>
-			<thr:total>0</thr:total>
-		</item>
-		<item>
-			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-1788575453583414554</guid>
-			<pubDate>Thu, 29 Jun 2017 17:19:00 +0000</pubDate>
-			<atom:updated>2017-06-29T10:19:24.900-07:00</atom:updated>
-			<title>ttt</title>
-			<description>ttt</description>
-			<link>http://nusoap-auto.blogspot.com/2017/06/ttt.html</link>
-			<author>noreply@blogger.com (nusoap)</author>
-			<thr:total>0</thr:total>
-		</item>
-		<item>
-			<guid isPermaLink="false">tag:blogger.com,1999:blog-4719848891501249593.post-6567208667652832493</guid>
-			<pubDate>Thu, 29 Jun 2017 16:48:00 +0000</pubDate>
-			<atom:updated>2017-06-29T09:48:38.424-07:00</atom:updated>
-			<title>There is something in the air!</title>
-			<description>I can smell it...</description>
-			<link>http://nusoap-auto.blogspot.com/2017/06/there-is-something-in-air.html</link>
-			<author>noreply@blogger.com (nusoap)</author>
-			<thr:total>0</thr:total>
+			<title>Try our new Yundt, Yundt and Yundt soap</title>
+			<link>www.shaniya-gibson.io</link>
+			<description>And you will smell like synergy</description>
+			<pubDate>Fri, 30 Jun 2017 18:50:33 GMT</pubDate>
+			<guid>www.shaniya-gibson.io</guid>
+			<dc:date>2017-06-30T18:50:33Z</dc:date>
 		</item>
 	</channel>
 </rss>

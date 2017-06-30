@@ -1,16 +1,17 @@
-<rss
-	xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-	<channel>
-		<title>New collection of soaps just came on sale!</title>
-		<link>https://twitter.com/NuSoap</link>
-		<description>Soaps from all around the world await!</description>
-		<item>
-			<title>Try our new Yundt, Yundt and Yundt soap</title>
-			<link>www.shaniya-gibson.io</link>
-			<description>And you will smell like synergy</description>
-			<pubDate>Fri, 30 Jun 2017 18:50:33 GMT</pubDate>
-			<guid>www.shaniya-gibson.io</guid>
-			<dc:date>2017-06-30T18:50:33Z</dc:date>
-		</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>New collection of soaps just came on sale!</title>
+  <link rel="alternate" href="https://twitter.com/NuSoap" />
+  <subtitle>Soaps from all around the world await!</subtitle>
+  <entry>
+    <title>Try our new Turcotte-Turcotte soap</title>
+    <link rel="alternate" href="www.rosanna-stokes.name" />
+    <author>
+      <name />
+    </author>
+    <updated>2017-06-30T19:16:42Z</updated>
+    <published>2017-06-30T19:16:42Z</published>
+    <summary type="text">And you will smell like service-desk</summary>
+    <dc:date>2017-06-30T19:16:42Z</dc:date>
+  </entry>
+</feed>
